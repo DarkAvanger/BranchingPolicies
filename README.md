@@ -11,4 +11,12 @@ To determine the advantages of Branching Policies we will work with the most com
 
 # Trunk-Based Development
 
+Trunk-Based Development is based on a single branch were all the teamm¡ works in the same branch, while having a different branch for releases. This also comes with a couple drawbacks, as if someone uploads the wrong code or anything is messed up the entire team needs to wait until the issue is solved, this process can slow down a project. This Policy has been outdated and it is barely used, Featire Branching Development has taken the advantatge as it is more efficient. 
+
 # Feature Branching Development
+
+Feature Branching Development is completely opposite to Trunk Based Development, this is mainly because all the implementations happen outside of the main branch and they only get implemented after the task is completed, therefore it provides a more efficient workspace while avoiding the drawbacks Trunk Based Development has. Even thought this Policy is not perfect either, and has some drawbacks. For example, if a branch does not stay updated with the main branch this will end up causing issues when implementing it in the main branch.
+
+Git Flow is an example of a Feature Branching Policy.
+
+# Why do we need Branching Policies?
