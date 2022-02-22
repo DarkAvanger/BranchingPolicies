@@ -20,3 +20,9 @@ Feature Branching Development is completely opposite to Trunk Based Development,
 Git Flow is an example of a Feature Branching Policy.
 
 # Why do we need Branching Policies?
+
+Branching Policies are a must for organising a team, as it creates an easier workflow, it also provides clear instructions on how to manage all the work and commits made to the main branch. This prevents the main repository to get messed up, since the main branch is not directly manipulated by the team, but instead by the administrator of the repository, meaning that the main branch is protected against any issues that may come up.
+
+The only user with permission to allow merge and pull requests is the administrator, meaning that the administrator has the main responsability of that repository. There could be more than one administrator, which they could be a Lead Programmer and a QA Lead, each of them will administrate different pulls and merges, as they are in charge of different aspects of the same project. Everything mentioned above can and should be managed on the Github website.
+
+The non-administrators of 
