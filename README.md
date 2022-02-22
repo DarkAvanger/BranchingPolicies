@@ -25,4 +25,6 @@ Branching Policies are a must for organising a team, as it creates an easier wor
 
 The only user with permission to allow merge and pull requests is the administrator, meaning that the administrator has the main responsability of that repository. There could be more than one administrator, which they could be a Lead Programmer and a QA Lead, each of them will administrate different pulls and merges, as they are in charge of different aspects of the same project. Everything mentioned above can and should be managed on the Github website.
 
-The non-administrators of 
+The non-administrators of the project will need to develop and create their own feature branches, then they will have to merge it with the main branch (Creating a pull request). With this method we can avoid damaging the main branch while keeping a good workflow between team members, as each of them is able to modify the code on it's own without disrupting other coworker's work.
+
+# Git Flow Structure
