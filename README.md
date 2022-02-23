@@ -28,3 +28,9 @@ The only user with permission to allow merge and pull requests is the administra
 The non-administrators of the project will need to develop and create their own feature branches, then they will have to merge it with the main branch (Creating a pull request). With this method we can avoid damaging the main branch while keeping a good workflow between team members, as each of them is able to modify the code on it's own without disrupting other coworker's work.
 
 # Git Flow Structure
+
+(Add Image)
+
+## Master and Develop
+
+# Feature
