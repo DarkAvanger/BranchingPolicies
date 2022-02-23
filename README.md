@@ -29,8 +29,18 @@ The non-administrators of the project will need to develop and create their own 
 
 # Git Flow Structure
 
+Gitflow structure is divided into two branches. The Master Branch and The Develop Branch, these branches are the only ones that remain until the end of the project.
+
 (Add Image)
 
 ## Master and Develop
 
-# Feature
+The Master Branch only contains the main version of the project.
+
+(Add Image)
+
+## Feature
+
+The Develop Branch which contains the development progress of the project.
+
+(Add Image)
