@@ -44,3 +44,13 @@ The Master Branch only contains the main version of the project.
 The Develop Branch which contains the development progress of the project.
 
 (Add Image)
+
+## Release
+
+ The Release branches off the Develop branch and it must merge back into that branch or the Master Branch.
+ 
+ This branch supports fixing errors, number of releases, versions and everything related to the master branch.
+ 
+ (Add Image)
+
+## Hotfix
