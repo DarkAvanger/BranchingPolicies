@@ -54,3 +54,9 @@ The Develop Branch which contains the development progress of the project.
  (Add Image)
 
 ## Hotfix
+
+Branches off the Master branch, merges back into Develop and Master branch.
+
+Hotfix branches are unplanned fixes, which include bugs. These branches are a must as they solve the undesired state of a Master branch. It is important when critical errors happen, as a new hotfix branch must be created and the issue must be solved immediatly. While a hotfix branch is created it does not stop production and other team members can continue with their respective development schedule.
+
+## 
