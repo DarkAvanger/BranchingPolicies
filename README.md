@@ -59,4 +59,13 @@ Branches off the Master branch, merges back into Develop and Master branch.
 
 Hotfix branches are unplanned fixes, which include bugs. These branches are a must as they solve the undesired state of a Master branch. It is important when critical errors happen, as a new hotfix branch must be created and the issue must be solved immediatly. While a hotfix branch is created it does not stop production and other team members can continue with their respective development schedule.
 
-## 
+(Add image)
+
+# Sources
+
+- [Azure Branching Policies](https://docs.microsoft.com/en-us/azure/devops/repos/git/branch-policies?view=azure-devops&tabs=browser)
+- [Azure Pull Request](https://docs.microsoft.com/en-us/azure/devops/repos/git/pull-requests?view=azure-devops&tabs=browser#complete-the-pull-request)
+- [Git Hub Branches and Merges](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches)
+- [Azure DevOps Video](https://www.youtube.com/watch?v=2nukM2TzD1Q)
+- [dev.to](https://dev.to/evdbogaard/branch-policies-in-azure-repos-11c5)
+- [git-scm](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
