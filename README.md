@@ -61,6 +61,10 @@ Hotfix branches are unplanned fixes, which include bugs. These branches are a mu
 
 (Add image)
 
+# App Veyor
+
+
+
 # Sources
 
 - [Azure Branching Policies](https://docs.microsoft.com/en-us/azure/devops/repos/git/branch-policies?view=azure-devops&tabs=browser)
