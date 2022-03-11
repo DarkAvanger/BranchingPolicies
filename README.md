@@ -63,7 +63,9 @@ Hotfix branches are unplanned fixes, which include bugs. These branches are a mu
 
 # App Veyor
 
+This is an app that can be connected to your Github account, it will generate a build for each commit that is made in the repository. We can configure Appveyor to create the builds for specific branches such as develop, release, master and hotfix. This will make the QA team easier to manage their work.
 
+(Add image)
 
 # Sources
 
