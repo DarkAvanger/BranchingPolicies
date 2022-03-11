@@ -13,11 +13,15 @@ To determine the advantages of Branching Policies we will work with the most com
 
 Trunk-Based Development is based on a single branch were all the teamm¡ works in the same branch, while having a different branch for releases. This also comes with a couple drawbacks, as if someone uploads the wrong code or anything is messed up the entire team needs to wait until the issue is solved, this process can slow down a project. This Policy has been outdated and it is barely used, Featire Branching Development has taken the advantatge as it is more efficient. 
 
+![](https://github.com/DarkAvanger/BranchingPolicies/blob/main/Images/TrunkBasedDev.png)
+
 # Feature Branching Development
 
 Feature Branching Development is completely opposite to Trunk Based Development, this is mainly because all the implementations happen outside of the main branch and they only get implemented after the task is completed, therefore it provides a more efficient workspace while avoiding the drawbacks Trunk Based Development has. Even thought this Policy is not perfect either, and has some drawbacks. For example, if a branch does not stay updated with the main branch this will end up causing issues when implementing it in the main branch.
 
 Git Flow is an example of a Feature Branching Policy.
+
+![](https://github.com/DarkAvanger/BranchingPolicies/blob/main/Images/GitFlow.png)
 
 # Why do we need Branching Policies?
 
@@ -31,19 +35,19 @@ The non-administrators of the project will need to develop and create their own 
 
 Gitflow structure is divided into two branches. The Master Branch and The Develop Branch, these branches are the only ones that remain until the end of the project.
 
-(Add Image)
+![](https://github.com/DarkAvanger/BranchingPolicies/blob/main/Images/GitflowB.png)
 
 ## Master and Develop
 
 The Master Branch only contains the main version of the project.
 
-(Add Image)
+![](https://github.com/DarkAvanger/BranchingPolicies/blob/main/Images/MainBranches.png)
 
 ## Feature
 
 The Develop Branch which contains the development progress of the project.
 
-(Add Image)
+![](https://github.com/DarkAvanger/BranchingPolicies/blob/main/Images/FeatureBranch.png)
 
 ## Release
 
@@ -51,7 +55,7 @@ The Develop Branch which contains the development progress of the project.
  
  This branch supports fixing errors, number of releases, versions and everything related to the master branch.
  
- (Add Image)
+ ![](https://github.com/DarkAvanger/BranchingPolicies/blob/main/Images/ReleaseBranch.png)
 
 ## Hotfix
 
@@ -59,13 +63,13 @@ Branches off the Master branch, merges back into Develop and Master branch.
 
 Hotfix branches are unplanned fixes, which include bugs. These branches are a must as they solve the undesired state of a Master branch. It is important when critical errors happen, as a new hotfix branch must be created and the issue must be solved immediatly. While a hotfix branch is created it does not stop production and other team members can continue with their respective development schedule.
 
-(Add image)
+![](https://github.com/DarkAvanger/BranchingPolicies/blob/main/Images/HotfixBranches.png)
 
 # App Veyor
 
 This is an app that can be connected to your Github account, it will generate a build for each commit that is made in the repository. We can configure Appveyor to create the builds for specific branches such as develop, release, master and hotfix. This will make the QA team easier to manage their work.
 
-(Add image)
+![](https://github.com/DarkAvanger/BranchingPolicies/blob/main/Images/Appveyor.png)
 
 # Sources
 
