@@ -33,7 +33,7 @@ The non-administrators of the project will need to develop and create their own 
 
 # Git Flow Structure
 
-Gitflow structure is divided into two branches. The Master Branch and The Develop Branch, these branches are the only ones that remain until the end of the project.
+Gitflow structure is divided into two main branches. The Master Branch and The Develop Branch, these branches are the only ones that remain until the end of the project.
 
 ![](https://github.com/DarkAvanger/BranchingPolicies/blob/main/Images/GitflowB.png)
 
