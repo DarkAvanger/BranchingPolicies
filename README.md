@@ -19,7 +19,7 @@ The non-administrators of the project will need to develop and create their own 
 
 # Trunk-Based Development
 
-Trunk-Based Development is based on a single branch were all the teamm¡ works in the same branch, while having a different branch for releases. This also comes with a couple drawbacks, as if someone uploads the wrong code or anything is messed up the entire team needs to wait until the issue is solved, this process can slow down a project. This Policy has been outdated and it is barely used, Featire Branching Development has taken the advantatge as it is more efficient. 
+Trunk-Based Development is based on a single branch were all the team works in the same branch, while having a different branch for releases. This also comes with a couple drawbacks, as if someone uploads the wrong code or anything is messed up the entire team needs to wait until the issue is solved, this process can slow down a project. This Policy has been outdated and it is barely used, Featire Branching Development has taken the advantatge as it is more efficient. 
 
 ![](https://github.com/DarkAvanger/BranchingPolicies/blob/main/Images/TrunkBasedDev.png)
 
